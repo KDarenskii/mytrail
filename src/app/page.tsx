@@ -5,7 +5,7 @@ export const metadata: Metadata = {
 };
 
 const HomePage: NextPage = () => {
-    return <div></div>;
+    return <div>Home Page</div>;
 };
 
 export default HomePage;
